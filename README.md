@@ -8,3 +8,4 @@ Base Learn Newcomer Guide
 05- Average Time
 06- Time Stamps
 07- Guide
+08- Step by Step
