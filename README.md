@@ -4,3 +4,4 @@ Base Learn Newcomer Guide
 02- Instructions
 03- Actions
 04- Data
+05- Average Time
