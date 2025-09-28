@@ -5,3 +5,4 @@ Base Learn Newcomer Guide
 03- Actions
 04- Data
 05- Average Time
+06- Time Stamps
