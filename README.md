@@ -6,8 +6,9 @@ Base Learn Newcomer Guide User
 03- Actions in layer
  Open wallet
 04- Data media
-(font
+(font)
 05- Average Time
+ Times
 06- Time Stamps
 07- Guide one
 08- Step by Step 
