@@ -1,9 +1,10 @@
 # Base-Learn-Newcomer
 Base Learn Newcomer Guide User
 01- Introducion
- Base is Layer2 - Base is for everyone
+ Base is Layer2 - 
 02- Instructions
 03- Actions in layer
+ Open wallet
 04- Data media
 05- Average Time
 06- Time Stamps
