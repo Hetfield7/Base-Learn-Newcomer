@@ -7,5 +7,5 @@ Base Learn Newcomer Guide User
 04- Data
 05- Average Time
 06- Time Stamps
-07- Guide
-08- Step by Step
+07- Guide one
+08- Step by Step 
