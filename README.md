@@ -3,7 +3,7 @@ Base Learn Newcomer Guide User
 01- Introducion
  Base is Layer2 - 
 02- Instructions
-1- SWAP
+1- SWAP - SWAP 2
 03- Actions in layer
  Open wallet
 04- Data media
